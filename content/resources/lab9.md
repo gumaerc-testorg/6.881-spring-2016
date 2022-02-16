@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/521a8b77f06ed3e610cd90f5188df9ce_lab9.zip
+file: /media/courses/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/521a8b77f06ed3e610cd90f5188df9ce_lab9.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: lab9.zip
 uid: 521a8b77-f06e-d3e6-10cd-90f5188df9ce
