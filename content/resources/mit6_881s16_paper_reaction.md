@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: bc823691-0251-c74e-875b-6f05c8f05efc
 resourcetype: Document
 title: MIT 6.881 Spring 2016 Paper Response Guide
 uid: 1eb571ea-59a0-3a5e-2f1f-d27e756c849c
