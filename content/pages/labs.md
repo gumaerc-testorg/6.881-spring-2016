@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a description of the course labs.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ LABS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab for Session 1 (PDF)]({{< baseurl >}}/resources/mit6_881s16_lab1)
+{{% resource_link e5d1e173-1c22-9b17-c992-edbe06d35dcf "Lab for Session 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ LABS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab for Session 2 (ZIP)]({{< baseurl >}}/resources/lab2) (This zip file contains: 1 .html file and 1 .r file.)
+{{% resource_link eb5f2f02-1ffc-e969-9a0b-d888bc76a32e "Lab for Session 2 (ZIP)" %}} (This zip file contains: 1 .html file and 1 .r file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ LABS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab for Session 3 (PDF)]({{< baseurl >}}/resources/mit6_881s16_lab3)
+{{% resource_link c82982eb-0e26-b809-68cb-76d4e025541b "Lab for Session 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ LABS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab for Session 4 (ZIP - 1.5MB)]({{< baseurl >}}/resources/lab4) (This zip file contains: 1. txt file and 1 .pdf file.)
+{{% resource_link c33660f8-ea15-712a-9fdd-fb7efdbd249a "Lab for Session 4 (ZIP - 1.5MB)" %}} (This zip file contains: 1. txt file and 1 .pdf file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ LABS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab for Session 7 (ZIP - 1.4MB)]({{< baseurl >}}/resources/lab7) (This zip file contains: 2 .csv files and 1 .pdf file.)
+{{% resource_link c7c8ff93-9ee6-e55d-1866-e86eca4e8394 "Lab for Session 7 (ZIP - 1.4MB)" %}} (This zip file contains: 2 .csv files and 1 .pdf file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ LABS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab for Session 9 (ZIP)]({{< baseurl >}}/resources/lab9) (This zip file contains: 1 .html file.)
+{{% resource_link 521a8b77-f06e-d3e6-10cd-90f5188df9ce "Lab for Session 9 (ZIP)" %}} (This zip file contains: 1 .html file.)
 {{< tdclose >}}
 
 {{< trclose >}}

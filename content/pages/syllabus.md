@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a course description and grading information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +31,7 @@ Each week the class will read one to two articles.
 
 The Reading phase for each paper will include, only paragraph-level comments and questions will be posted on the course site, not general comments for the paper.
 
-The Discussion phase will include general comments on each paper will be accepted. Please use the [document template (PDF)]({{< baseurl >}}/resources/mit6_881s16_paper_reaction) for submitting your comments to the papers. The students leading the discussion will then have the weekend to incorporate comments from the class into their presentation for the following week.
+The Discussion phase will include general comments on each paper will be accepted. Please use the {{% resource_link 1eb571ea-59a0-3a5e-2f1f-d27e756c849c "document template (PDF)" %}} for submitting your comments to the papers. The students leading the discussion will then have the weekend to incorporate comments from the class into their presentation for the following week.
 
 Weekly Mini Labs
 ----------------

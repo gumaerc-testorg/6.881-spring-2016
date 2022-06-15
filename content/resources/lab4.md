@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/c33660f8ea15712a9fddfb7efdbd249a_lab4.zip
+file: /courses/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/c33660f8ea15712a9fddfb7efdbd249a_lab4.zip
 file_type: application/zip
 learning_resource_types:
 - Labs
