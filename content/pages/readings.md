@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to online
+  journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2354331d-fea8-7a24-3330-894b365c5829
 ---
 
-All students were required to [respond to each paper (PDF)]({{< baseurl >}}/resources/mit6_881s16_paper_reaction).
+All students were required to {{% resource_link 1eb571ea-59a0-3a5e-2f1f-d27e756c849c "respond to each paper (PDF)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
