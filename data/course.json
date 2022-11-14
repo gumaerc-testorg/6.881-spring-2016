@@ -38,7 +38,10 @@
     "content": "724c4df7-8229-6ce1-0a65-5802a08a089c",
     "website": "6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016"
   },
-  "learning_resource_types": [],
-  "site_uid": "259a4290-c2c8-4826-8436-165831910213",
+  "learning_resource_types": [
+    "Labs"
+  ],
+  "site_uid": "947ffda6-ac0e-4e1f-9a0a-a820cb6aa7ec",
+  "short_id": "6.881-spring-2016",
   "title": "Course Metadata"
 }
