@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Paper Response Guide.
 file: /courses/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/1eb571ea59a03a5e2f1fd27e756c849c_MIT6_881S16_Paper_Reaction.pdf
+file_size: 49854
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
