@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/eb5f2f021ffce9699a0bd888bc76a32e_lab2.zip
+file: /courses/6-881-computational-personal-genomics-making-sense-of-complete-genomes-spring-2016/eb5f2f021ffce9699a0bd888bc76a32e_lab2.zip
 file_size: 9185
 file_type: application/zip
 learning_resource_types:
