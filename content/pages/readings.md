@@ -37,9 +37,9 @@ READINGS
 {{< tdopen >}}
 
 
-Lander. "[Initial Impact of the Sequencing of the Human Genome](http://dx.doi.org/10.1038/nature09792)." _Nature_ 470 (2011): 187–97.
+Lander. "{{% resource_link "7bf4cfac-00e9-449e-ba4a-c395c4e21818" "Initial Impact of the Sequencing of the Human Genome" %}}." _Nature_ 470 (2011): 187–97.
 
-The 1000 Genomes Project Consortium. "[A Global Reference for Human Genetic Variation](http://dx.doi.org/10.1038/nature15393)." _Nature_ 526, no. 7571 (2015): 68–74.
+The 1000 Genomes Project Consortium. "{{% resource_link "4d3e978f-b5fe-4ae3-91ef-cfb16c6ea67d" "A Global Reference for Human Genetic Variation" %}}." _Nature_ 526, no. 7571 (2015): 68–74.
 
 
 {{< tdclose >}}
@@ -55,11 +55,11 @@ The 1000 Genomes Project Consortium. "[A Global Reference for Human Genetic Vari
 {{< tdopen >}}
 
 
-Lander, Eric S., and Nicholas J. Schork. "[Genetic Dissection of Complex Traits](http://dx.doi.org/10.1126/science.8091226)." _Science_ 265, no. 5181 (1994): 2037–48.
+Lander, Eric S., and Nicholas J. Schork. "{{% resource_link "a435668e-4a17-4619-a680-63b0bbbc1c50" "Genetic Dissection of Complex Traits" %}}." _Science_ 265, no. 5181 (1994): 2037–48.
 
-Altshuler, et al. "[Genetic Mapping in Human Disease](http://dx.doi.org/10.1126/science.1156409)." _Science_ 322, no. 5903 (2008): 881–8.
+Altshuler, et al. "{{% resource_link "f9570f61-afc8-49a7-b322-66e90381ea73" "Genetic Mapping in Human Disease" %}}." _Science_ 322, no. 5903 (2008): 881–8.
 
-Zuketal. "[Searching for Missing Heritability: Designing Rare Variant Association Studies](http://dx.doi.org/10.1073/pnas.1322563111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 4 (2014): E455–64.
+Zuketal. "{{% resource_link "89ddfb95-bb7a-47ab-a651-5662295bd1d4" "Searching for Missing Heritability: Designing Rare Variant Association Studies" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 4 (2014): E455–64.
 
 
 {{< tdclose >}}
@@ -77,21 +77,21 @@ Zuketal. "[Searching for Missing Heritability: Designing Rare Variant Associatio
 
 ### Overview
 
-Hudson. "[Genomics, Health Care, and Society](http://dx.doi.org/10.1056/NEJMra1010517)." _The New England Journal of Medicine_, no. 365 (2011): 1033–41.
+Hudson. "{{% resource_link "c4fd0833-e7d9-4929-8871-f02f4888b8d5" "Genomics, Health Care, and Society" %}}." _The New England Journal of Medicine_, no. 365 (2011): 1033–41.
 
 ### Medicine
 
-Fulda, and Lykens. "[Ethical Issues in Predictive Genetic Testing: A Public Health Perspective](http://dx.doi.org/10.1136/jme.2004.010272)." _Journal of Medical Ethics_ 32, no. 3 (2006): 143–7.
+Fulda, and Lykens. "{{% resource_link "1f8822fa-527f-47c2-a1f8-63d079d44998" "Ethical Issues in Predictive Genetic Testing: A Public Health Perspective" %}}." _Journal of Medical Ethics_ 32, no. 3 (2006): 143–7.
 
 ### Prenatal / Newborns
 
-1.  Almond. "[Genetic Profiling of Newborns: Ethical and Social Issues](http://dx.doi.org/10.1038/nrg1745)." _Nature Reviews Genetics_ 7 (2006): 67–71.
-2.  Henn. "[Consumerism in Prenatal Diagnosis: A Challenge for Ethical Guidelines](http://dx.doi.org/10.1136/jme.26.6.444)." _Journal of Medical Ethics_ 26, no. 6 (2000): 444–6.
-3.  Yurkiewicz, et al. "[Prenatal Whole-Genome Sequencing-Is the Quest to Know a Fetus's Future Ethical?](https://www.researchgate.net/publication/259765237)" _The New England Journal of Medicine_, no. 370 (2014): 195–7.
+1.  Almond. "{{% resource_link "13a4a0fc-dc3a-40d2-8273-b9edbebbbb1b" "Genetic Profiling of Newborns: Ethical and Social Issues" %}}." _Nature Reviews Genetics_ 7 (2006): 67–71.
+2.  Henn. "{{% resource_link "05d25c22-ae70-4a1f-a921-6d6e2a61f2f3" "Consumerism in Prenatal Diagnosis: A Challenge for Ethical Guidelines" %}}." _Journal of Medical Ethics_ 26, no. 6 (2000): 444–6.
+3.  Yurkiewicz, et al. "{{% resource_link "9ff3e4bf-57b4-4b5c-b581-f1141356963b" "Prenatal Whole-Genome Sequencing-Is the Quest to Know a Fetus's Future Ethical?" %}}" _The New England Journal of Medicine_, no. 370 (2014): 195–7.
 
 ### Gene Editing
 
-Lanphier, et al. "[Don't Edit the Human Germ Line](http://dx.doi.org/10.1038/519410a)." _Nature_ 519, no. 7544 (2015).
+Lanphier, et al. "{{% resource_link "dc459dee-c9f2-45c1-8034-0eb685004090" "Don't Edit the Human Germ Line" %}}." _Nature_ 519, no. 7544 (2015).
 
 
 {{< tdclose >}}
@@ -107,13 +107,13 @@ Lanphier, et al. "[Don't Edit the Human Germ Line](http://dx.doi.org/10.1038/519
 {{< tdopen >}}
 
 
-Adzhubei, et al. "[A Method and Server for Predicting Damaging Missense Mutations](http://dx.doi.org/10.1038/nmeth0410-248)." _Nature Methods_ 7, no. 4 (2010): 248–9.
+Adzhubei, et al. "{{% resource_link "935ecb68-cd62-43cc-bb78-c07193c6f504" "A Method and Server for Predicting Damaging Missense Mutations" %}}." _Nature Methods_ 7, no. 4 (2010): 248–9.
 
-Exome Aggregation Consortium. "[Analysis of Protein-coding Genetic Variation in 60,706 Humans](http://dx.doi.org/10.1038/nature19057)." _Nature_ 536, no. 7616 (2015): 285–91.
+Exome Aggregation Consortium. "{{% resource_link "5318e356-ef83-413d-bac9-9448cb3e927f" "Analysis of Protein-coding Genetic Variation in 60,706 Humans" %}}." _Nature_ 536, no. 7616 (2015): 285–91.
 
-Homsy, et al. "[De Novo Mutations in Congenital Heart Disease with Neurodevelopmental and Other Congenital Anomalies](http://dx.doi.org/10.1126/science.aac9396)." _Science_ 350, no. 6265 (2015): 1262–6.
+Homsy, et al. "{{% resource_link "9c726052-991d-41bf-abc4-84776c75d55d" "De Novo Mutations in Congenital Heart Disease with Neurodevelopmental and Other Congenital Anomalies" %}}." _Science_ 350, no. 6265 (2015): 1262–6.
 
-Flannick, et al. "[Loss-of-function Mutations in _SLC30A8_ Protect Against Type 2 Diabetes](http://dx.doi.org/10.1038/ng.2915)." _Nature Genetics_ 46, no. 4 (2014): 357–63.
+Flannick, et al. "{{% resource_link "efb4225a-3c9c-4446-99d1-1037ddf59d12" "Loss-of-function Mutations in _SLC30A8_ Protect Against Type 2 Diabetes" %}}." _Nature Genetics_ 46, no. 4 (2014): 357–63.
 
 
 {{< tdclose >}}
@@ -129,11 +129,11 @@ Flannick, et al. "[Loss-of-function Mutations in _SLC30A8_ Protect Against Type 
 {{< tdopen >}}
 
 
-Ward, and Kellis. "[Interpreting Noncoding Genetic Variation in Complex Traits and Human Disease](http://dx.doi.org/10.1038/nbt.2422)." _Nature Biotechnology_ 30 (2012): 1095–106.
+Ward, and Kellis. "{{% resource_link "a119bd05-3985-411f-82a7-255e14ac16f7" "Interpreting Noncoding Genetic Variation in Complex Traits and Human Disease" %}}." _Nature Biotechnology_ 30 (2012): 1095–106.
 
-Kundaje, et al. "[Integrative Analysis of 111 Reference Human Epigenomes](http://dx.doi.org/10.1038/nature14248)." _Nature_ 518, no. 7539 (2015): 317–30.
+Kundaje, et al. "{{% resource_link "c19911ef-80bf-429b-9a80-8275880296f6" "Integrative Analysis of 111 Reference Human Epigenomes" %}}." _Nature_ 518, no. 7539 (2015): 317–30.
 
-Claussnitzer, et al. "[_FTO_ Obesity Variant Circuitry and Adipocyte Browning in Humans](http://dx.doi.org/10.1056/NEJMoa1502214)." _The New England Journal of Medicine_ 373 (2015): 895–907.
+Claussnitzer, et al. "{{% resource_link "16411deb-6382-4bbe-a745-2d3ca537390c" "_FTO_ Obesity Variant Circuitry and Adipocyte Browning in Humans" %}}." _The New England Journal of Medicine_ 373 (2015): 895–907.
 
 
 {{< tdclose >}}
@@ -149,9 +149,9 @@ Claussnitzer, et al. "[_FTO_ Obesity Variant Circuitry and Adipocyte Browning in
 {{< tdopen >}}
 
 
-Pickrell. "[Joint Analysis of Functional Genomic Data and Genome-wide Association Studies of 18 Human Traits](http://dx.doi.org/10.1016/j.ajhg.2014.03.004)." _Cell_ 94, no. 4 (2014): 559–73.
+Pickrell. "{{% resource_link "945fda8e-cc6c-46d4-8a9f-22112873b2b7" "Joint Analysis of Functional Genomic Data and Genome-wide Association Studies of 18 Human Traits" %}}." _Cell_ 94, no. 4 (2014): 559–73.
 
-Kichaev, et al. "[Integrating Functional Data to Prioritize Causal Variants in Statistical Fine-Mapping Studies](http://dx.doi.org/10.1371/journal.pgen.1004722)." _PLOS Genetics_ (2014).
+Kichaev, et al. "{{% resource_link "06983279-89ad-4bab-b93b-dd0a94caf390" "Integrating Functional Data to Prioritize Causal Variants in Statistical Fine-Mapping Studies" %}}." _PLOS Genetics_ (2014).
 
 
 {{< tdclose >}}
@@ -167,11 +167,11 @@ Kichaev, et al. "[Integrating Functional Data to Prioritize Causal Variants in S
 {{< tdopen >}}
 
 
-The GTEx Consortium. "[The Genotype-Tissue Expression (GTEx) Pilot Analysis: Multitissue Gene Regulation in Humans](http://dx.doi.org/10.1126/science.1262110)." _Science_ 348, no. 6235 (2015): 648–60.
+The GTEx Consortium. "{{% resource_link "fd17a519-da14-418c-be91-2f523e2c43d5" "The Genotype-Tissue Expression (GTEx) Pilot Analysis: Multitissue Gene Regulation in Humans" %}}." _Science_ 348, no. 6235 (2015): 648–60.
 
-Baran, et al. "[The Landscape of Genomic Imprinting Across Diverse Adult Human Tissues](http://dx.doi.org/10.1101/gr.192278.115)." _Genome Resource_ 25 (2015): 927–36.
+Baran, et al. "{{% resource_link "6f986ecd-593b-49ed-8d5c-b3a34d15cff0" "The Landscape of Genomic Imprinting Across Diverse Adult Human Tissues" %}}." _Genome Resource_ 25 (2015): 927–36.
 
-Liu, Aryee, et al. "[Epigenome-wide Association Data Implicate DNA Methylation as an Intermediary of Genetic Risk in Rheumatoid Arthritis](http://dx.doi.org/10.1038/nbt.2487)." _Nature Biotechnology_ 31 (2013): 142–7.
+Liu, Aryee, et al. "{{% resource_link "c5d176de-ff0f-489a-9a0d-61f50e56f2e4" "Epigenome-wide Association Data Implicate DNA Methylation as an Intermediary of Genetic Risk in Rheumatoid Arthritis" %}}." _Nature Biotechnology_ 31 (2013): 142–7.
 
 
 {{< tdclose >}}
@@ -187,11 +187,11 @@ Liu, Aryee, et al. "[Epigenome-wide Association Data Implicate DNA Methylation a
 {{< tdopen >}}
 
 
-Golan, et al. "[Measuring Missing Heritability: Inferring the Contribution of Common Variants](http://dx.doi.org/10.1073/pnas.1419064111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 49 (2014): 5272–81.
+Golan, et al. "{{% resource_link "504d0190-9f50-4400-9a71-160ffa359872" "Measuring Missing Heritability: Inferring the Contribution of Common Variants" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 49 (2014): 5272–81.
 
-Gusev, et al. "[Partitioning Heritability of Regulatory and Cell-type-specific Variants Across 11 Common Diseases](http://dx.doi.org/10.1016/j.ajhg.2014.10.004)." _The American Journal of Human Genetics_ 95, no. 5 (2014): 535–52.
+Gusev, et al. "{{% resource_link "50af62c4-5993-43a3-b004-323498accaa0" "Partitioning Heritability of Regulatory and Cell-type-specific Variants Across 11 Common Diseases" %}}." _The American Journal of Human Genetics_ 95, no. 5 (2014): 535–52.
 
-Gamazon, et al. "[A Gene-based Association Method for Mapping Traits Using Reference Transcriptome Data](http://dx.doi.org/10.1038/ng.3367)." _Nature Genetics_ 47 (2015): 1091–8.
+Gamazon, et al. "{{% resource_link "44364c9e-faf8-4d08-8f6d-49c32b168378" "A Gene-based Association Method for Mapping Traits Using Reference Transcriptome Data" %}}." _Nature Genetics_ 47 (2015): 1091–8.
 
 
 {{< tdclose >}}
@@ -207,11 +207,11 @@ Gamazon, et al. "[A Gene-based Association Method for Mapping Traits Using Refer
 {{< tdopen >}}
 
 
-Novembre, et al. "[Genes Mirror Geography Within Europe](http://dx.doi.org/10.1038/nature07331)." _Nature_ 456 (2008): 98–101.
+Novembre, et al. "{{% resource_link "133f7fc4-d4d8-4980-9543-61ae89e10cd4" "Genes Mirror Geography Within Europe" %}}." _Nature_ 456 (2008): 98–101.
 
-Sabeti, et al. "[Positive Natural Selection in the Human Lineage](http://dx.doi.org/10.1126/science.1124309)." _Science_ 312, no. 5780 (2006): 1614–20.
+Sabeti, et al. "{{% resource_link "03814d4f-e864-4460-b163-5eb099e93f63" "Positive Natural Selection in the Human Lineage" %}}." _Science_ 312, no. 5780 (2006): 1614–20.
 
-Sankararaman, et al. "[The Genomic Landscape of Neanderthal Ancestry in Present-day Humans](http://dx.doi.org/10.1038/nature12961)." _Nature_ 507, no. 7492 (2014): 354–7.
+Sankararaman, et al. "{{% resource_link "a3d5637e-9560-4285-a755-874d2e0344a3" "The Genomic Landscape of Neanderthal Ancestry in Present-day Humans" %}}." _Nature_ 507, no. 7492 (2014): 354–7.
 
 
 {{< tdclose >}}
@@ -227,11 +227,11 @@ Sankararaman, et al. "[The Genomic Landscape of Neanderthal Ancestry in Present-
 {{< tdopen >}}
 
 
-Cancer Genome Atlas. "[Comprehensive Molecular Portraits of Human Breast Tumours](http://dx.doi.org/10.1038/nature11412)." _Nature_ 490, no. 7418 (2012): 61–70.
+Cancer Genome Atlas. "{{% resource_link "07b8c2b2-f484-49f4-9b29-d59d354e5ba2" "Comprehensive Molecular Portraits of Human Breast Tumours" %}}." _Nature_ 490, no. 7418 (2012): 61–70.
 
-Lawrence, et al. "[Mutational Heterogeneity in Cancer and the Search for New Cancer-associated Genes](http://dx.doi.org/10.1038/nature12213)." _Nature_ 499, no. 7457 (2013): 214–8.
+Lawrence, et al. "{{% resource_link "40f2887b-361f-4cab-8ac9-5bad5696101b" "Mutational Heterogeneity in Cancer and the Search for New Cancer-associated Genes" %}}." _Nature_ 499, no. 7457 (2013): 214–8.
 
-Patel, et al. "[Single-cell RNA-seq Highlights Intratumoral Heterogeneity in Primary Glioblastoma](http://dx.doi.org/10.1126/science.1254257)." _Science_ 344, no. 6190 (2014): 1396–401.
+Patel, et al. "{{% resource_link "d1049f4d-e9e7-4105-aa93-689eeebaf6f0" "Single-cell RNA-seq Highlights Intratumoral Heterogeneity in Primary Glioblastoma" %}}." _Science_ 344, no. 6190 (2014): 1396–401.
 
 
 {{< tdclose >}}
@@ -247,11 +247,11 @@ Patel, et al. "[Single-cell RNA-seq Highlights Intratumoral Heterogeneity in Pri
 {{< tdopen >}}
 
 
-Gaj, et al. "[ZFN, TALEN, and CRISPR / Cas-based Methods for Genome Engineering](http://dx.doi.org/10.1016/j.tibtech.2013.04.004)." _Trends Biotechnology_ 31, no. 7 (2013): 397–405.
+Gaj, et al. "{{% resource_link "4a6e8cb5-9eee-4684-8e4d-d551bc2d2cda" "ZFN, TALEN, and CRISPR / Cas-based Methods for Genome Engineering" %}}." _Trends Biotechnology_ 31, no. 7 (2013): 397–405.
 
-Melnikov, et al. "[Systematic Dissection and Optimization of Inducible Enhancers in Human Cells Using a Massively Parallel Reporter Assay](http://dx.doi.org/10.1038/nbt.2137)." _Nature Biotechnology_ 30, no. 3 (2012): 271–7.
+Melnikov, et al. "{{% resource_link "336cb472-3811-4a5c-96dd-d7f38c82100f" "Systematic Dissection and Optimization of Inducible Enhancers in Human Cells Using a Massively Parallel Reporter Assay" %}}." _Nature Biotechnology_ 30, no. 3 (2012): 271–7.
 
-Koike-Yusa, et al. "[Genome-wide Reces-sive Genetic Screening in Mammalian Cells With a Lentiviral CRISPR-guide RNA Library](http://dx.doi.org/10.1038/nbt.2800)." _Nature Biotechnology_ 32, no. 3 (2014): 267–73.
+Koike-Yusa, et al. "{{% resource_link "abf31b2d-cfd9-433e-a92d-681805509c7b" "Genome-wide Reces-sive Genetic Screening in Mammalian Cells With a Lentiviral CRISPR-guide RNA Library" %}}." _Nature Biotechnology_ 32, no. 3 (2014): 267–73.
 
 
 {{< tdclose >}}
