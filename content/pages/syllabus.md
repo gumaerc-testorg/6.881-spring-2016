@@ -48,7 +48,7 @@ Textbooks
 
 There are no required textbooks for the course. There are some resources available that may help as an independent outside source for any points that need clarification:
 
-*   Foulkes, Andrea S. _Applied Statistical Genetics with R: For Population-based Association Studies_. Springer, 2009. ISBN: 9780387895536. \[Preview with [Google Books](http://books.google.com/books?id=gwW8jArHnwwC&pg=PAfrontcover)\] (available as an E-Book)
+*   Foulkes, Andrea S. _Applied Statistical Genetics with R: For Population-based Association Studies_. Springer, 2009. ISBN: 9780387895536. \[Preview with {{% resource_link "1de70653-6ca8-4e09-97c2-1d20c8dd31bc" "Google Books" %}}\] (available as an E-Book)
 *   Hartl, Daniel, and Andrew G. Clark. _Principles of Population Genetics_. Sinauer Associates, Incorporation, 2006. ISBN: 9780878933082. (3 copies in the MIT library)
 
 Topics
